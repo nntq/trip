@@ -1,0 +1,185 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-container {
+    height: 100vh;
+    background-color: #32A59D;
+}
+
+.logo {
+    padding: 12px 45px 12px 45px;
+    font-family: 'Monoton', cursive;
+    font-size: 60px;
+    color: #D6EDEB;
+    position: relative;
+}
+
+
+.img {
+    margin-top: -1%;
+    width: 100%;
+    
+}
+
+.info {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto 10px auto;
+    color: #D6EDEB;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 22px;
+}
+
+h1 {
+    margin: 0;
+}
+
+hr {
+    margin-top: 20px;
+    width: 60px;
+    border-style: dotted none none;
+    border-width: 11px;
+    border-color: #D6EDEB;
+    opacity: 0.5;
+}
+
+.cl1 {
+    position: absolute;
+    top: 73%;
+    left: 15%;
+}
+
+.cl2 {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+}
+
+.cl3 {
+    position: absolute;
+    left: 80%;
+    top: 60%;
+}
+
+.opportunity{
+    position: relative;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+}
+h3{
+    font-size: 29px;
+    margin-bottom: 0;
+    margin-top: 2px;
+    color:#005c56;
+}
+.text{
+    line-height: 53px;
+    font-size: 32px;
+    margin: 0;
+    color: #D6EDEB;
+    opacity: 0.9;
+}
+
+.bici{
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+
+.boy1{
+    width: 100%;
+}
+
+.tourist1{
+    width: 100%;
+}
+
+.boy{
+    position: absolute;
+    width: 48vh;
+    height: 48vh;
+    left: 0;
+    top: 16px;
+    /* background: red; */
+}
+
+.tourist{
+    position: absolute;
+    width: 50vh;
+    height: 50vh;
+    /* background: red; */
+    right: 0;
+    top: -40px;
+}
+.pos{
+    position: relative;
+    padding: -100%;
+    /* margin-right: 100px;
+    margin-left: 100px; */
+}
+
+.btn{
+    margin-top: 21vh;
+    width: 8vh;
+    opacity: 0.7;
+}
+
+.btn:hover{
+    opacity: 1;
+}
+
+.cross{
+    height: 45px;
+    background: linear-gradient(to bottom, #32A59D, #D6EDEB);
+}
+
+.container{
+    background-color: #D6EDEB;
+    padding: 0 10% 0 10%;
+}
+.infTourist{
+    display: block;
+}
+
+
+.infoT{
+    transform: scale(-1, 1);
+    width: 100%;
+    
+}
+h2{
+    margin: 0;
+}
+.TT{
+    float: left;
+    width: 40vh;
+    height: 40vh;
+}
+
+.infoB{
+    transform: scale(-1, 1);
+    width: 100%;
+}
+.BB{
+    float: right;
+    width: 40vh;
+    height: 40vh;
+}
+
+.texti{
+    padding: 20vh;
+}
+
+.infoC{
+    width: 100%;
+}
+
+.CC{
+    float: left;
+    width: 40vh;
+    height: 40vh; 
+}
